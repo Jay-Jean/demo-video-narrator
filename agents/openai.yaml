@@ -1,0 +1,4 @@
+interface:
+  display_name: "演示视频讲解制作"
+  short_description: "为软件演示视频设计旁白，生成自然中文配音、同步字幕和可交付成片"
+  default_prompt: "Use $demo-video-narrator to turn this screen recording into a polished narrated demo with synchronized Chinese subtitles."
